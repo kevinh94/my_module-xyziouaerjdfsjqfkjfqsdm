@@ -8,4 +8,5 @@ function sayGoodbye(firstName, lastName) {
 
 module.exports = {
   sayHello,
+  sayGoodbye,
 };
