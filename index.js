@@ -3,7 +3,7 @@ function sayHello(firstName, lastName) {
 }
 
 function sayGoodbye(firstName, lastName) {
-  console.log(`Goodbye ${firstName} ${lastName}`);
+  console.log(`Good bye ${firstName} ${lastName}`);
 }
 
 module.exports = {
