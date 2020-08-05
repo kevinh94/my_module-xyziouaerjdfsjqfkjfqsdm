@@ -1,6 +1,6 @@
 {
   "name": "my_module-xyziouaerjdfsjqfkjfqsdm",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "```sh my_module -u your_name ```",
   "main": "index.js",
   "scripts": {
